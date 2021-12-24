@@ -1,5 +1,5 @@
 # Petrol-Pump-Management-System-Project
-
+The Project is Developed in Visual Studio with Help of C# Language and Winforms.
 In this Project , There are lot of sections for the Petrol Pump Manager in which the admin can Add Data of  Products , Employess, Income , Advance Income , Purchase .
 The Login Section is also includeded.
 You can use Email and Password below to Unlock it.
